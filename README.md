@@ -16,5 +16,5 @@ This project demonstrates a full data pipeline—from mathematical modeling to d
 * `/data`: The raw and processed Excel datasets.
 * `/sql`: Scripts for database creation and business logic.
 * `/dashboard`: The Power BI (.pbix) file and screenshots.
-### Dashboard Preview
-Marketing Dashbaord (marketingdashboard.png)
+## 📊 Dashboard Preview
+![Marketing ROI Dashboard](dashboard.png)
