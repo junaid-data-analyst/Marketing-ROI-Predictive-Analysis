@@ -18,3 +18,5 @@ This project demonstrates a full data pipeline—from mathematical modeling to d
 * `/dashboard`: The Power BI (.pbix) file and screenshots.
 ## 📊 Dashboard Preview
 ![Marketing ROI Dashboard](marketingdashboard.png)
+## 📈 Mathematical Validation (Excel)
+![Regression Results](regressionresults.png)
